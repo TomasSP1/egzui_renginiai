@@ -1,0 +1,27 @@
+* {
+  margin: 0 !important;
+  padding: 0 !important;
+  box-sizing: border-box !important;
+}
+
+.footer {
+  width: 100%;
+  /* height: 100%; */
+  background-color: #121212;
+  color: #fff;
+ 
+  display: flex;
+  position: absolute;
+  justify-content: center;
+  bottom: 0;
+}
+
+.footer_copy {
+  display: block;
+  padding: 5px;
+  font-size: .85rem;;
+  color: hsl(207, 4%, 56%);
+}
+
+
+
